@@ -1,0 +1,31 @@
+{
+    "company_type": "ltd",
+    "address_snippet": "58 Malden Road, London, England, NW5 3HG",
+    "title": "SIMULUS LTD",
+    "links": {
+        "self": "/company/12749836"
+    },
+    "address": {
+        "premises": "58",
+        "address_line_1": "Malden Road",
+        "country": "England",
+        "locality": "London",
+        "postal_code": "NW5 3HG"
+    },
+    "company_number": "12749836",
+    "matches": {
+        "snippet": [],
+        "title": [
+            1,
+            7
+        ]
+    },
+    "kind": "searchresults#company",
+    "description": "12749836 - Incorporated on 17 July 2020",
+    "date_of_creation": "2020-07-17",
+    "snippet": "",
+    "company_status": "active",
+    "description_identifier": [
+        "incorporated-on"
+    ]
+}
